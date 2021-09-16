@@ -13,6 +13,8 @@
 		2D2A64D526F3037800619177 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D2A64D326F3037800619177 /* Main.storyboard */; };
 		2D2A64D726F3037800619177 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D2A64D626F3037800619177 /* Assets.xcassets */; };
 		2D2A64DA26F3037800619177 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D2A64D826F3037800619177 /* LaunchScreen.storyboard */; };
+		2D2A64E226F307B500619177 /* NasaCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D2A64E126F307B500619177 /* NasaCollectionViewController.swift */; };
+		2D2A64E426F307D600619177 /* InsertImageCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D2A64E326F307D600619177 /* InsertImageCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		2D2A64D626F3037800619177 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2D2A64D926F3037800619177 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2D2A64DB26F3037800619177 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2D2A64E126F307B500619177 /* NasaCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NasaCollectionViewController.swift; sourceTree = "<group>"; };
+		2D2A64E326F307D600619177 /* InsertImageCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertImageCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				2D2A64CF26F3037800619177 /* SceneDelegate.swift */,
 				2D2A64D126F3037800619177 /* ViewController.swift */,
 				2D2A64D326F3037800619177 /* Main.storyboard */,
+				2D2A64E126F307B500619177 /* NasaCollectionViewController.swift */,
+				2D2A64E326F307D600619177 /* InsertImageCollectionViewCell.swift */,
 				2D2A64D626F3037800619177 /* Assets.xcassets */,
 				2D2A64D826F3037800619177 /* LaunchScreen.storyboard */,
 				2D2A64DB26F3037800619177 /* Info.plist */,
@@ -140,6 +146,8 @@
 				2D2A64D226F3037800619177 /* ViewController.swift in Sources */,
 				2D2A64CE26F3037800619177 /* AppDelegate.swift in Sources */,
 				2D2A64D026F3037800619177 /* SceneDelegate.swift in Sources */,
+				2D2A64E226F307B500619177 /* NasaCollectionViewController.swift in Sources */,
+				2D2A64E426F307D600619177 /* InsertImageCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
